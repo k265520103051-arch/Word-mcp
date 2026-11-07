@@ -106,3 +106,7 @@ Danh sách chặn (không phân biệt hoa thường, bất kỳ đoạn nào c�
 - Gateway: tham số tùy chọn bỏ qua, đối tượng COM không trả về trực tiếp (chỉ tên kiểu).
 - Tài liệu rất lớn: `word_read_text` cắt theo ranh giới đoạn (`max_chars`) và trả `next_paragraph` để đọc tiếp.
 - Kích thước mô tả công cụ khoảng 8.400 token, ảnh hưởng ngữ cảnh của mô hình.
+
+## Giấy phép
+
+Apache License 2.0, xem [LICENSE](LICENSE).
